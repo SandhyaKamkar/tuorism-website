@@ -1,0 +1,13 @@
+.packages{
+padding:40px;
+text-align:center;
+}
+
+.package{
+border:1px solid #ddd;
+padding:20px;
+margin:15px;
+display:inline-block;
+width:220px;
+border-radius:10px;
+}
